@@ -1,0 +1,17 @@
+export const homeObjTwo = {
+    id: 'rarity',
+    lightBg: false,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Place Holder Spot',
+    headline: 'Title spot',
+    description: "Not all cuties are made equal... ",
+    description2: "Cuties are randomly \n generated with nine different atributes: backgrounds, backhair, skin color, face, front hair, headwear, front hair, facial accesories, and clothes.",
+    buttonLabel: 'Get Started',
+    imgStart: false,
+    img: require('../../videos/PreviewVideo2.mp4').default,
+    alt: 'Failed',
+    dark: false,
+    primary: false,
+    darkText: true,
+};
